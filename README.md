@@ -18,7 +18,7 @@ This project creates a real-life **"invisibility cloak"** effect using Python an
 - **Language**: Python 3
 - **Libraries**: OpenCV, NumPy
 - **Environment Support**:
-  - Local (with webcam)
+  - Local
   - Google Colab (with video upload)
 
 ---
