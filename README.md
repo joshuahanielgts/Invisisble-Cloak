@@ -1,4 +1,4 @@
-# 🧥 Invisible Cloak using OpenCV
+# 🧥 Real-Time Invisible Cloak using OpenCV (Harry Potter Style Effect)
 
 This project creates a real-life **"invisibility cloak"** effect using Python and OpenCV, inspired by the invisibility cloak from the Harry Potter universe. It works by masking a specific color (like red) and replacing it with a static background frame, giving the illusion of invisibility.
 
